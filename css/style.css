@@ -859,7 +859,7 @@ section {
 @media screen and (min-width: 768px) {
   .footer-section {
     background: #192a61 url(../assets/footer-strip.jpg) no-repeat;
-    background-position: top right -900px;
+    background-position: top right -700px;
   }
   .footer-section .width-wrapper .row-flex {
     -webkit-box-orient: horizontal;
